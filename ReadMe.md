@@ -5,6 +5,7 @@
 🎨 Always Making New Cool Projects  
 🌷 #learninginpublic In My Digital Garden  
 💭 Currently Learning About React And Node.Js!
+Find my portfolio at greedsss.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=greedy854&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
