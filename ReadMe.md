@@ -22,6 +22,7 @@ Find my portfolio at greedsss.com
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=greedy854&icon=1&color=9)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=greedy854&icon=1&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
