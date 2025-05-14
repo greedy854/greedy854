@@ -1,37 +1,60 @@
-# Hi, I'm Greedy! 👋
+<h1 align="center">Hi there 👋, I'm Greedy854</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Passionate about Web Design & Creative Coding</h3>
 
-👩🏻‍💻 Software Developer From The Netherlands  
-👩🏻‍🎓 Studied Software Development At Media College Amsterdam, Netherlands  
-🎨 Always Making New Cool Projects  
-🌷 #learninginpublic In My Digital Garden  
-💭 Currently Learning About React And Node.Js!
-Find my portfolio at greedsss.com
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=greedy854&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=greedy854&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 About Me
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RkcyKA5j) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/greedy_000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Greedy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@greedy.2854) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/greedsss_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCDY0esuW_URTn_aAFPNjLew) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Greedsss) 
+- 🎓 Student developer based in Purmerend, Netherlands
+- 💡 Passionate about building intuitive and user-friendly web applications
+- 🌱 Currently exploring advanced JavaScript frameworks and backend technologies
+- 🛠️ Love working with HTML, CSS, SCSS/Sass, JavaScript, and Python
+- 🎨 Enjoy designing with Figma and Adobe Creative Suite
+- 🔗 Check out my latest project: [Webshop4-School](https://github.com/greedy854/webshop4-school)
 
-# 💻 Skills:
+---
+
+### 🧰 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/scss-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
+### 📌 Featured Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 🛒 **[Webshop4-School](https://github.com/greedy854/webshop4-school)**  
+  A unique website dedicated to coins, banknotes, and more!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📸 **[M7-BO-School](https://github.com/greedy854/M7-BO-school)**  
+  A creative remake of Instagram utilizing APIs and original design concepts.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=greedy854&show_icons=true&theme=radical" alt="Greedy854's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](#) *(Add your LinkedIn profile link)*
+- 📧 Email: *(Add your email address)*
+
+---
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!*
