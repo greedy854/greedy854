@@ -5,12 +5,12 @@
 
 ### 🚀 About Me
 
-- 🎓 Student developer based in Purmerend, Netherlands
-- 💡 Passionate about building intuitive and user-friendly web applications
-- 🌱 Currently exploring advanced JavaScript frameworks and backend technologies
-- 🛠️ Love working with HTML, CSS, SCSS/Sass, JavaScript, and Python
-- 🎨 Enjoy designing with Figma and Adobe Creative Suite
-- 🔗 Check out my latest project: [Webshop4-School](https://github.com/greedy854/webshop4-school)
+- 🎓 Student developer based in Purmerend, Netherlands  
+- 💡 Passionate about building intuitive and user-friendly web applications  
+- 🌱 Currently exploring advanced JavaScript frameworks and backend technologies  
+- 🛠️ Love working with HTML, CSS, SCSS/Sass, JavaScript, and Python  
+- 🎨 Enjoy designing with Figma and Adobe Creative Suite  
+- 🌐 Check out my portfolio: [greedsss.com](https://greedsss.com)
 
 ---
 
@@ -34,11 +34,14 @@
 
 ### 📌 Featured Projects
 
-- 🛒 **[Webshop4-School](https://github.com/greedy854/webshop4-school)**  
-  A unique website dedicated to coins, banknotes, and more!
+- 🖥️ **[Portfolio – greedsss.com](https://greedsss.com)**  
+  A sleek, modern personal site showcasing my work, skills, and experience as a developer.
 
-- 📸 **[M7-BO-School](https://github.com/greedy854/M7-BO-school)**  
-  A creative remake of Instagram utilizing APIs and original design concepts.
+- 📸 **[Domits](https://github.com/domits1)**  
+ All-in-one Travel App | List, search and book holiday accommodations
+
+- 🛒 **[Proverbs and Paradise](https://github.com/greedy854/spreekworden-gezegden)**  
+ A app made for kids to learn Proverbs in a paradise :).
 
 ---
 
@@ -52,9 +55,10 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](#) *(Add your LinkedIn profile link)*
+- 🌐 Portfolio: [greedsss.com](https://greedsss.com)
+- 💼 LinkedIn: *(Add your LinkedIn profile link)*
 - 📧 Email: *(Add your email address)*
 
 ---
 
-*Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!*
+*Thanks for stopping by! Feel free to explore my repos or reach out for collaboration opportunities!*
