@@ -10,7 +10,7 @@
 - 🌱 Currently exploring advanced JavaScript frameworks and backend technologies
 - 🛠️ Love working with HTML, CSS, SCSS/Sass, JavaScript, and Python
 - 🎨 Enjoy designing with Figma and Adobe Creative Suite
-- 🔗 Check out my latest project: [Webshop4-School](https://github.com/greedy854/webshop4-school)
+- 🔗 Check out my latest project: [Webshop4-School](greedsss.com)
 
 ---
 
