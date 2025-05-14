@@ -56,8 +56,8 @@
 ### 📫 Let's Connect
 
 - 🌐 Portfolio: [greedsss.com](https://greedsss.com)
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
-- 📧 Email: *(Add your email address)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/greedy/)*
+- 📧 Email: *(Sembruijnesteijn@gmail.com)*
 
 ---
 
