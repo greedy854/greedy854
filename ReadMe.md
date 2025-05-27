@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Greedy854</h1>
+<h1 align="center">Hi there 👋, I'm Sem
+Bruijnesteijn </h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about Web Design & Creative Coding</h3>
 
 ---
