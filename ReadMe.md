@@ -6,7 +6,7 @@ Bruijnesteijn </h1>
 
 ### 🚀 About Me
 
-- 🎓 Student developer based in Purmerend, Netherlands  
+- 🎓 Full stack developer based in Purmerend, Netherlands  
 - 💡 Passionate about building intuitive and user-friendly web applications  
 - 🌱 Currently exploring advanced JavaScript frameworks and backend technologies  
 - 🛠️ Love working with HTML, CSS, SCSS/Sass, JavaScript, Python, React and Figma!  
@@ -35,7 +35,7 @@ Bruijnesteijn </h1>
 
 ### 📌 Featured Projects
 
-- 🖥️ **[Portfolio – greedsss.com](https://greedsss.com)**  
+- 🖥️ **[Portfolio – sembruijnesteijn.com](https://sembruijnesteijn.com)**  
   A sleek, modern personal site showcasing my work, skills, and experience as a developer.
 
 - 📸 **[Domits](https://github.com/domits1)**  
@@ -56,7 +56,7 @@ Bruijnesteijn </h1>
 
 ### 📫 Let's Connect
 
-- 🌐 Portfolio: [greedsss.com](https://greedsss.com)
+- 🌐 Portfolio: [sembruijnesteijn.com](https://sembruijnesteijn.com)
 - 💼 LinkedIn: *(https://www.linkedin.com/in/greedy/)*
 - 📧 Email: *(Sembruijnesteijn@gmail.com)*
 
