@@ -11,7 +11,7 @@ Bruijnesteijn </h1>
 - 🌱 Currently exploring advanced JavaScript frameworks and backend technologies  
 - 🛠️ Love working with HTML, CSS, SCSS/Sass, JavaScript, Python, React and Figma!  
 - 🎨 Enjoy designing with Figma and Adobe Creative Suite  
-- 🌐 Check out my portfolio: [greedsss.com](https://greedsss.com)
+- 🌐 Check out my portfolio: [sembruijnesteijn.com](https://sembruijnesteijn.com)
 
 ---
 
